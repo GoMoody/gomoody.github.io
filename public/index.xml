@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>技术前沿探索</title>
+        <link>https://yingsongxue.github.io/</link>
+        <description>研究探索软件开发，HTML5/CSS3/JavaScript(ES6)前端开发、C#/NodeJS/PHP后台开发、Go/Shell等本地脚本。CentOS命令/Shell等系统运维、防火墙/路由器/交换机/VLAN划分等网络设计部署</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-Hans</language>
+            <atom:link href="https://yingsongxue.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

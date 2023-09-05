@@ -29,7 +29,8 @@ hasCJKLanguage = true
 paginate = 25
 # google analytics code [UA-XXXXXXXX-X]
 # 谷歌分析代号 [UA-XXXXXXXX-X]
-googleAnalytics = "G-1JY0MXS2S7"
+# googleAnalytics = "G-1JY0MXS2S7"
+googleAnalytics = "UA-47501753-2"
 # copyright description used only for seo schema
 # 版权描述，仅仅用于 SEO
 copyright = ""

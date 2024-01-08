@@ -1,4 +1,4 @@
-baseURL = 'https://yingsongxue.github.io'
+baseURL = 'https://gomoody.github.io'
 
 # theme
 # 主题
@@ -231,7 +231,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           enable = true
           gravatarEmail = ""
           avatarURL = "https://yingsongxue.github.io/static/img/2023/upgit_20230901_1693551603.png"
-          title = "欢迎访问方糖"
+          title = "欢迎访问风雨前行"
           subtitle = "记录日常工作中遇到的问题和解决方案"
           typeit = false
           social = false

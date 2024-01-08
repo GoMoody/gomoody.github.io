@@ -1,8 +1,8 @@
 ---
-title: "关于 CubeCandy/方糖"
+title: "关于 GoMoody/风雨前行"
 date: 2023-09-01T14:44:00+08:00
 draft: false
-description: "关于 CubeCandy/方糖"
+description: "关于 GoMoody/风雨前行"
 
 lightgallery: true
 

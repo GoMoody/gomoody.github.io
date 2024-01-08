@@ -1,4 +1,4 @@
-# 关于 CubeCandy/方糖
+# 关于 GoMoody/风雨前行
 
 
 ![image-20230901150003494](https://yingsongxue.github.io/static/img/2023/upgit_20230901_1693551603.png)

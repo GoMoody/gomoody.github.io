@@ -1,2 +1,2 @@
-# cubecandy.github.io
+# gomoody.github.io
 Website Blog

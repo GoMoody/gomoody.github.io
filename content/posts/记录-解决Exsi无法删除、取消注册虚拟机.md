@@ -7,7 +7,7 @@ author: "Song"
 description: "记录一次解决Exsi虚拟机的操作问题"
 images: []
 
-tags: ["Exsi", DevOps"]
+tags: ["Exsi", "DevOps"]
 categories: ["documentation"]
 
 lightgallery: true

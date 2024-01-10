@@ -1,12 +1,7 @@
 ---
 title: "记录-解决Exsi无法删除、取消注册虚拟机"
 date: 2023-09-01T15:23:24+08:00
-lastmod: 2023-09-01T15:23:24+08:00
 draft: false
-author: "Song"
-description: "记录一次解决Exsi虚拟机的操作问题"
-images: []
-
 tags: ["Exsi", "DevOps"]
 categories: ["documentation"]
 

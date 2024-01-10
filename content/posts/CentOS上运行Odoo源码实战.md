@@ -1,18 +1,10 @@
 ---
-
 title: "CentOS上运行Odoo源码实战"
-draft: false
-author: "Song"
-date: 2024-01-10T08:57:24+08:00
-lastmod: 2024-01-10T08:57:24+08:00
+date: 2024-01-10T09:13:56+08:00
 draft: false
 tags: ["CentOS", "Odoo"]
 categories: ["documentation"]
 
-lightgallery: true
-
-toc:
-  auto: false
 ---
 
 ## 直接安装Odoo失败历程

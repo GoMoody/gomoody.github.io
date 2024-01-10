@@ -1,17 +1,10 @@
 ---
 title: "CentOS/Linux用户管理命令"
+date: 2024-01-10T09:01:56+08:00
 draft: false
-author: "Song"
-date: 2024-01-10T08:57:24+08:00
-lastmod: 2024-01-10T08:57:24+08:00
-
 tags: ["CentOS", "Linux"]
 categories: ["documentation"]
 
-lightgallery: true
-
-toc:
-  auto: false
 ---
 ## 创建用户
 

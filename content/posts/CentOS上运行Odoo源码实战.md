@@ -3,7 +3,9 @@
 title: "CentOS上运行Odoo源码实战"
 draft: false
 author: "Song"
-
+date: 2024-01-10T08:57:24+08:00
+lastmod: 2024-01-10T08:57:24+08:00
+draft: false
 tags: ["CentOS", "Odoo"]
 categories: ["documentation"]
 
